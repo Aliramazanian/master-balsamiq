@@ -3,19 +3,16 @@
   position: relative;
   top: 155px;
 }
-
 body #testimonials {
   background-color: rgb(235, 124, 96);
 }
-
 body #testimonials img {
   border-radius: 50%;
   height: 50px;
 }
-
 @media (max-width: 1024px) {
   .iphon {
     transform: rotate(0deg);
-    translate: -50%, 25%;
+    translate: (-50%, 25%);
   }
-}/*# sourceMappingURL=styles.css.map */
+}
